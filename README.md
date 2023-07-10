@@ -6,3 +6,4 @@ Each project contains its own README.md file with description.
 ## List of projects:
 
 1. Nonogram Project
+2. Titanic Survivors Classification
